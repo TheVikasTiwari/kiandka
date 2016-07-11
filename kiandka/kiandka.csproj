@@ -108,7 +108,6 @@
   <ItemGroup>
     <Content Include="home.html" />
     <Content Include="img\bg.png" />
-    <Content Include="purchase.html" />
     <Content Include="scripts\ai.0.22.9-build00167.js" />
     <Content Include="scripts\ai.0.22.9-build00167.min.js" />
     <Content Include="termscondi.html" />
